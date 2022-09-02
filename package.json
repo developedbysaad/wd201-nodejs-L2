@@ -1,0 +1,11 @@
+{
+  "name": "l2",
+  "version": "1.0.0",
+  "description": "A survey form made as a capstone project for [WD101 course](https://www.pupilfirst.school/courses/1087/curriculum)",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
